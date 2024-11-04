@@ -1,4 +1,4 @@
-nombre = "camila"
+nombre = "PEPE"
 apellido = "dalto"
 
 saludo = "hola " + nombre + " " + apellido + " ¿Como estas?"
